@@ -1,6 +1,6 @@
 //==============================================================
 // NoTurrets
-// Removes turrets from Maps - Dark1
+// Removes turrets from maps - Dark1
 //==============================================================
 
 class NoTurret expands Mutator;
